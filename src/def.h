@@ -5,13 +5,3 @@
 #define BALL_RADIUS 15
 #define GAME_WIDTH 640
 #define GAME_HEIGHT 480
-
-/*
-	int previousTime;
-	int currentTime;
-	int elapsedTime;
-
-	previousTime = currentTime;
-    currentTime = glutGet(GLUT_ELAPSED_TIME);
-	elapsedTime = currentTime - previousTime;
-*/
